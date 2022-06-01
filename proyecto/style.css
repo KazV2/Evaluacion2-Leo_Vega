@@ -1,0 +1,16 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(229, 238, 238);
+}
+
+.card-img{
+    filter: blur(3px);
+}
+
+label{
+    color: black;
+    font-size: 20px;
+}
